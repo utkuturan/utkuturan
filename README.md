@@ -48,6 +48,6 @@ I am an **Electronics and Communication Engineer** based in Istanbul, Turkey. I 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-six-republic.vercel.app/api?username=utkuturan&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=utkuturan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=utkuturan&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=utkuturan&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
